@@ -31,9 +31,20 @@ section{
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
 }
-div{
+#foto{
+    display: block;
+    margin: auto;
+    padding-top: 1rem;  
+}
+
+div#foto{
     text-align: center;
-    padding: 8px;
+}
+
+
+div#res{
+    text-align: center;
+    margin: auto;
 }
 
 footer{

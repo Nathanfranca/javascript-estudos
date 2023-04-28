@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    background: rgba(30, 121, 241, 0.623);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+section{
+    color: black;
+    margin: auto;
+    background-color: aliceblue;
+    width: 600px;
+    height: 300px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.699);
+    padding: 15px;
+    border-radius: 8px;
+   
+}
+
+h1{
+    text-align: center;
+
+}

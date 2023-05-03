@@ -31,21 +31,7 @@ section{
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
 }
-#foto{
-    display: block;
-    margin: auto;
-    padding-top: 1rem;  
-}
 
-div#foto{
-    text-align: center;
-}
-
-
-div#res{
-    text-align: center;
-    margin: auto;
-}
 
 footer{
     color: white;
@@ -56,5 +42,9 @@ footer{
     width: 500px;
     margin-top: 30px;
     border-radius: 10px;
+}
+
+#sel{
+    width: 150px;
 }
 
